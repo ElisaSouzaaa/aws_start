@@ -1,0 +1,5 @@
+myNewFruitList = ("apple", "banana", "orange")
+print(myNewFruitList[0])
+print(myNewFruitList[1])
+print(myNewFruitList[2])
+print(type(myNewFruitList))
